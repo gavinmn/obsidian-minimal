@@ -2,7 +2,7 @@
 
 This is a fork of **@kepano's** great Minimal theme. I made some modifications to the styling based on personal preferences and have made it available to use here. Everything comes as is - you can find some recommended plugin settings at the top of [the CSS file](https://github.com/gavinmn/obsidian-minimal/blob/master/gavinmnMinimalModifications.css). Please support @kepano's work!
 
-Support development: **@kepano** on [Twitter](https://www.twitter.com/kepano) or [Buy me a coffee](https://www.buymeacoffee.com/kepano)
+Support development: **@kepano** on [Twitter](https://www.twitter.com/kepano) or [Buy @kepano a coffee](https://www.buymeacoffee.com/kepano)
 
 <a href="https://www.buymeacoffee.com/kepano"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=&slug=kepano&button_colour=5F7FFF&font_colour=ffffff&font_family=Poppins&outline_colour=000000&coffee_colour=FFDD00"></a>
 
