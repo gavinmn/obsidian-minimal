@@ -1,10 +1,14 @@
-# Minimal
+# Notes about this fork
 
-Minimal is an Obsidian theme meticulously designed to feel native on desktop, mobile and tablet. You can customize colors, fonts and more with the companion plugins [Minimal Theme Settings](https://github.com/kepano/obsidian-minimal-settings) and [Hider](https://github.com/kepano/obsidian-hider).
+This is a fork of @kepano's great Minimal theme. I made some modifications to the styling based on personal preferences and have made it available to use here. Everything comes as is - you can find some recommended plugin settings at the top of [the CSS file](gavinMinimalModifications.css). Please support @kepano's work!
 
 Support development: **@kepano** on [Twitter](https://www.twitter.com/kepano) or [Buy me a coffee](https://www.buymeacoffee.com/kepano)
 
 <a href="https://www.buymeacoffee.com/kepano"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=&slug=kepano&button_colour=5F7FFF&font_colour=ffffff&font_family=Poppins&outline_colour=000000&coffee_colour=FFDD00"></a>
+
+# Minimal
+
+Minimal is an Obsidian theme meticulously designed to feel native on desktop, mobile and tablet. You can customize colors, fonts and more with the companion plugins [Minimal Theme Settings](https://github.com/kepano/obsidian-minimal-settings) and [Hider](https://github.com/kepano/obsidian-hider).
 
 ![](cover.png)
 
@@ -36,7 +40,7 @@ The following features can be toggled on/off using [Minimal Theme Settings](http
 
 ### CSS helper classes
 
-The following classes can be added on a per-file basis using the  `cssClasses` YAML tag. The classes are composable, so you can include more than one to combine effects.
+The following classes can be added on a per-file basis using the `cssClasses` YAML tag. The classes are composable, so you can include more than one to combine effects.
 
 #### Tables and Dataview
 
@@ -75,6 +79,6 @@ The following classes can be added on a per-file basis using the  `cssClasses` Y
 
 ### Disclaimer
 
-This theme is provided as is, and is focused on my personal use of Obsidian on Mac OS. As such it is not thoroughly tested across all operating systems and features of Obsidian. 
+This theme is provided as is, and is focused on my personal use of Obsidian on Mac OS. As such it is not thoroughly tested across all operating systems and features of Obsidian.
 
 This theme modifies significant parts of the Obsidian interface, so it might break with future updates. It may also be incompatible with other bits of custom CSS you have. The theme file is organized in such a way that you can comment out sections that may be causing conflicts.
