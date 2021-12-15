@@ -1,6 +1,6 @@
 # Notes about this fork
 
-This is a fork of @kepano's great Minimal theme. I made some modifications to the styling based on personal preferences and have made it available to use here. Everything comes as is - you can find some recommended plugin settings at the top of [the CSS file](gavinMinimalModifications.css). Please support @kepano's work!
+This is a fork of @kepano's great Minimal theme. I made some modifications to the styling based on personal preferences and have made it available to use here. Everything comes as is - you can find some recommended plugin settings at the top of [the CSS file](/gavinMinimalModifications.css). Please support @kepano's work!
 
 Support development: **@kepano** on [Twitter](https://www.twitter.com/kepano) or [Buy me a coffee](https://www.buymeacoffee.com/kepano)
 
